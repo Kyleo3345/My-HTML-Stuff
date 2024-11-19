@@ -1,0 +1,27 @@
+body {color:dodgerblue;}
+table.First {background: url("../Images/Spacebackground1.jpg");
+width: 500px; height: 300px;}
+table.First td, table.First th {border: 1px solid;}
+
+#title {background-color: white;}
+
+
+table.Second th, table.Second tr {border: 2px dashed; color:red;}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

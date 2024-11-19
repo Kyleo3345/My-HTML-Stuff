@@ -1,0 +1,27 @@
+
+h1, h2 {color: grey;}
+
+body {color: Blue; background-color: silver;}
+a:link {color:Green;}
+a:hover {color:Yellow;}
+a:visited {color:Red;}
+
+table {border: 1px solid; color: black;}
+
+ .fred {background-color: LawnGreen; width: 250px; border: 3px solid orange; border-radius: 25px;}
+ .wilma {text-shadow: 1px 1px white;}
+
+
+img { 
+	float: left;
+	margin: 10px;
+	height: 150px;
+}
+
+
+
+
+
+
+
+
